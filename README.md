@@ -8,15 +8,14 @@ This Power BI project analyzes operational and ticketing data from an airline sy
 
 ## Datasets Used
 
-Flight Information
-Columns: FlightID, FlightNumber, Airline, Destination, Status
+1. [📄 Flight Information](https://docs.google.com/spreadsheets/d/1PwnpBEUiG5A-tEKgxnjKsEmud4ZzUKT2yV5WgMHxrPk/edit?gid=1262897191#gid=1262897191)  
+   Columns: `FlightID`, `FlightNumber`, `Airline`, `Destination`, `Status`
 
-Ticket Information
-Columns: TicketID, FlightID, BookingStatus
+2. [📄 Ticket Information](https://docs.google.com/spreadsheets/d/1Z2E6tvuZodoru_h52cFQWrMZTkf69ynyai8KjPKRDkk/edit?gid=435997425#gid=435997425)  
+   Columns: `TicketID`, `FlightID`, `BookingStatus`
 
-Passenger Information
-Columns: PassengerID, FlightID, SeatNumber
-
+3. [📄 Passenger Information](https://docs.google.com/spreadsheets/d/1p3K0MWxbzDp1T8FJ168Hgw7WDnEURzvFxhPhEdmqqzI/edit?gid=1870640173#gid=1870640173)  
+   Columns: `PassengerID`, `FlightID`, `SeatNumber`
 ---
 
 ## Key Tasks Performed
@@ -66,10 +65,16 @@ Columns: PassengerID, FlightID, SeatNumber
 ##  Screenshots
 
 ###  Tickets Booked Visual
-![Tickets Booked](Screenshots/T_Tickets_Boooked.png)
+![Tickets Booked](T_Tickets_Boooked.png)
+
+###  Ticket Distribution
+![Ticket Distribution](Ticket_Distribution.png)
+
+###  Flight Distribution visual
+![Flight Distribution](Flight_distribution.png
 
 ###  Final Dashboard
-![Final Dashboard](Screenshots/Final_Dashboard.png)
+![Final Dashboard](Final_Dashboard.png)
 
 ## Project Outcome
 - Cleaned and modeled relational airline data
