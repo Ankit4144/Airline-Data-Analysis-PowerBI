@@ -71,7 +71,7 @@ This Power BI project analyzes operational and ticketing data from an airline sy
 ![Ticket Distribution](Ticket_Distribution.png)
 
 ###  Flight Distribution visual
-![Flight Distribution](Flight_distribution.png
+![Flight Distribution](Flight_distribution.png)
 
 ###  Final Dashboard
 ![Final Dashboard](Final_Dashboard.png)
